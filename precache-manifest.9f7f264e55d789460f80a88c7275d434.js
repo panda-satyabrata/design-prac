@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7153ae7b1379bdd36117bcd7ba1e63d2",
+    "revision": "2033916b3153c5bd98dab0504cfd5c44",
     "url": "/design-prac/index.html"
   },
   {
-    "revision": "1e907f126287fd9f4a63",
-    "url": "/design-prac/static/css/main.23eca62d.chunk.css"
+    "revision": "22329d2dee450f8b2672",
+    "url": "/design-prac/static/css/main.af6daf3f.chunk.css"
   },
   {
     "revision": "d5f1751a9eda056f6ba3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/design-prac/static/js/2.4c0e7ed8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e907f126287fd9f4a63",
-    "url": "/design-prac/static/js/main.861975ab.chunk.js"
+    "revision": "22329d2dee450f8b2672",
+    "url": "/design-prac/static/js/main.27f18917.chunk.js"
   },
   {
     "revision": "0c00576dda9554514edf",
