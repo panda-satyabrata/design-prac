@@ -16,6 +16,7 @@ body {
   transform: translate(-50%, -50%);
   animation: fill 1s linear forwards 8.4s;
 }
+
 path {
   stroke-linecap: round;
 }
@@ -86,5 +87,17 @@ path {
   }
   to {
     fill: white;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #logo.big-logo {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  #logo.small-logo {
+    display: none;
   }
 }
